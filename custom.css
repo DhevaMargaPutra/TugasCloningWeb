@@ -1,0 +1,36 @@
+.navbar {
+  position: fixed;
+  width: 100%;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 0.7rem 1rem;
+  z-index: 3;
+}
+
+.mynav {
+  position: absolute;
+  right: 1rem
+}
+
+.jumbotron {
+  background-image: url(http://i66.tinypic.com/28am9fs.jpg);
+  text-align: center;
+  background-size: 100%;
+  background-size: contain;
+}
+
+.container {
+
+}
+
+.display-4 {
+  color: white;
+  font-size: 4.5rem;
+}
+
+.lead {
+  color: white;
+}
+
+h2 {
+  text-align: center;
+}
